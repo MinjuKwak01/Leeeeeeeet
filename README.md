@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2232-adding-spaces-to-a-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2418-minimum-sum-of-squared-difference) |
@@ -14,6 +15,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2232-adding-spaces-to-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
