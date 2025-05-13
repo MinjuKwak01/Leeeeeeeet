@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0682-baseball-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2232-adding-spaces-to-a-string) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/MinjuKwak01/Leeeeeeeet/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
